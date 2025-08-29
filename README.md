@@ -38,12 +38,4 @@ Este proyecto permite cargar un archivo CSV, limpiarlo de registros duplicados y
     - Rellenar valores nulos en columnas categóricas con la moda.
 4. **Guardado**: Guardar los datos limpios en un nuevo archivo CSV.
 
-## Instalación
-
-1. **Clonar el repositorio**:
-
-    ```bash
-    git clone https://github.com/tu_usuario/proyecto-limpieza-datos.git
-    cd proyecto-limpieza-datos
-    ```
 
